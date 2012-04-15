@@ -1,0 +1,10 @@
+after ubgrade to ubuntu 10.04 Lucid
+
+--This line, and those below, will be ignored--
+
+M    HomeSketch.py
+M    SafetyMonitor.py
+M    log.txt
+M    RadioFrame.py
+M    Resources.py
+M    monitor.tws
